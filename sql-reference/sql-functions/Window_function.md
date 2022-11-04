@@ -199,7 +199,7 @@ from int_t;
 
 ## 使用 FIRST_VALUE() 窗口函数
 
-`FIRST_VALUE()` 函数返回窗口范围内的**第一个**值。
+`FIRST_VALUE()` 函数返回窗口范围内的**第一个**值。 ？？这个描述和实际执行结果不匹配？？
 
 语法：
 
@@ -299,7 +299,7 @@ order by closing_date;
 
 ## 使用 LAST_VALUE() 窗口函数
 
-`LAST_VALUE()` 返回窗口范围内的**最后一个**值。与 `FIRST_VALUE()` 相反。
+`LAST_VALUE()` 返回窗口范围内的**最后一个**值。与 `FIRST_VALUE()` 相反。？？这个描述和实际执行结果不匹配？？
 
 语法：
 
